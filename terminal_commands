@@ -7,6 +7,6 @@ apt-get remove name
 git init - создание нового гита
 git add .  -  добавить все файлы
 git status
-git 
+git commit - слепок для отправки
 git
 
