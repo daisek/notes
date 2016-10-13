@@ -1,0 +1,12 @@
+sudo dpkg -i DEB_PACKAGE - "install deb files"
+sudo apt-get install name_prog
+apt-get update - обновление всех доступных пакетов
+apt-get upgrade -  обновление установленых пакетов
+apt-get remove name
+
+git init - создание нового гита
+git add .  -  добавить все файлы
+git status
+git 
+git
+
