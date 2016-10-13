@@ -8,5 +8,6 @@ git init - создание нового гита
 git add .  -  добавить все файлы
 git status
 git commit - слепок для отправки
-git
-
+git clone "url gita" - клонирование чужого гита
+git checkout "name branch" - переход в новую ветку
+git branch "name" - создание новой ветки
