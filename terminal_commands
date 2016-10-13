@@ -10,4 +10,5 @@ git status
 git commit - слепок для отправки
 git clone "url gita" - клонирование чужого гита
 git checkout "name branch" - переход в новую ветку
-git branch "name" - создание новой ветки
+git branch "name" - создание новой ветки 
+git push -  отправка на удаленный сервер
