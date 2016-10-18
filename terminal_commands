@@ -3,7 +3,7 @@ sudo apt-get install name_prog
 apt-get update - обновление всех доступных пакетов
 apt-get upgrade -  обновление установленых пакетов
 apt-get remove name
-
+  Команды для GIT
 git init - создание нового гита
 git add .  -  добавить все файлы
 git status
